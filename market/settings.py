@@ -26,7 +26,7 @@ SECRET_KEY = '$a^w$eh7g*&@dt%hfv7qu*a87u(b3$(5ng(f@bj@%9a*2_z+te'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [arcdigital.herokuapp.com]
+ALLOWED_HOSTS = [https://git.heroku.com/arcdigital.git]
 
 
 # Application definition
