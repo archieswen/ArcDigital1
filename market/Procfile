@@ -1,0 +1,1 @@
+web: gunicorn arcdigital.wsgi --log-file -
